@@ -26,9 +26,9 @@ Before you begin, ensure that you have the following installed:
    Create a .env file in the project root directory.
    Add your Django SECRET_KEY to the .env file:
    SECRET_KEY=your_secret_key_here
-5. Apply Database Migrations:
+6. Apply Database Migrations:
    python manage.py migrate
-6. Run the Development Server:
+7. Run the Development Server:
    python manage.py runserver
 
 ## Running the Tests
