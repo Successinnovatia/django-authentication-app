@@ -8,14 +8,14 @@ Before you begin, ensure that you have the following installed:
 
 - Python 3.x
 - Django 4.x (or the compatible version)
-- Python virtual environment (recommended)
+- Python virtual environment 
 
 ## Setup Instructions
 
 1. Clone the Repository:
 
    ```bash
-   git clone repo
+   git clone https://github.com/Successinnovatia/django-authentication-task.git
    cd django-authentication-task
 2. Create and Activate a Virtual Environment:
    python3 -m venv venv
